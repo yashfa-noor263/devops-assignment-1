@@ -21,3 +21,6 @@ Git is a version-control system that records changes to files over time. GitHub 
 ## Tools Used
 - GitHub website
 - Web browser
+## Branch Practice
+
+I created the assignment-notes branch to practise isolated changes.
